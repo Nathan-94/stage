@@ -1,0 +1,77 @@
+.menu a {
+  background-color:#e5e5e5;
+  padding:8px;
+  margin-top:7px;
+  display:block;
+  width:100%;
+  color:black;
+
+}
+.text{
+  font-size:36px;
+  color:black;
+  font-family:verdana;
+
+}
+
+      table {
+     font-family: verdena, sans-serif;
+       border-collapse: collapse;
+        width: 100%;
+}
+
+      td, th {
+    border: 1px solid #dddddd;
+   text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+.cities {
+  background-color:lightblue;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.intro{
+	background-color:#e5e5e5;
+	padding:15px;
+	text-align:center;
+}
+
+.test{
+	font-family:verdana;
+		color:#aaaaaa;
+}
+
+.fin{
+	background-color:#e5e5e5;
+	padding:15px;
+	text-align:center;
+}
+
+.top{
+	text-align:center;
+	font-size:36px;
+	color:red;
+	font-family:courier
+}
+.red{
+	color:red;
+}
+
+.rest{
+	text-align:center;
+	font-size:36px;
+	font-family:verdana;
+}
+
+.bet{
+	padding:15px;
+	text-align:center;
+}
