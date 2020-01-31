@@ -8,7 +8,7 @@
 
 }
 .text{
-  font-size:36px;
+  font-size:30px;
   color:black;
   font-family:verdana;
 
@@ -57,7 +57,7 @@ tr:nth-child(even) {
 
 .top{
 	text-align:center;
-	font-size:36px;
+	font-size:30px;
 	color:red;
 	font-family:courier
 }
@@ -67,7 +67,7 @@ tr:nth-child(even) {
 
 .rest{
 	text-align:center;
-	font-size:36px;
+	font-size:30px;
 	font-family:verdana;
 }
 
